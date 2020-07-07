@@ -1,0 +1,15 @@
+RECIPE NAME: lib64-abl-ubifs
+VERSION: 3.0
+LICENSE: Qualcomm-Technologies-Inc.-Proprietary
+FILES: 
+
+RECIPE NAME: lib64-edk2
+VERSION: 3.0
+LICENSE: Qualcomm-Technologies-Inc.-Proprietary
+FILES: 
+
+RECIPE NAME: linux-msm
+VERSION: 4.14
+LICENSE: GPLv2
+FILES: 
+

@@ -1,0 +1,5 @@
+LICENSE
+-------
+
+7z ANSI-C Decoder is part of the LZMA SDK.
+LZMA SDK is written and placed in the public domain by Igor Pavlov.
